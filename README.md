@@ -1,0 +1,1 @@
+# 6_task_python
